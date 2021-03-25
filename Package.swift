@@ -5,7 +5,7 @@ let package = Package(
     name: "PasscodeLock",
     defaultLocalization: "en",
     platforms: [
-        .iOS("8.0")
+        .iOS("9.0")
     ],
     products: [
         .library(name: "PasscodeLock", targets: ["PasscodeLock"])
